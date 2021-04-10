@@ -1,0 +1,6 @@
+1. delete database or run this command (delete database hubrealestate)
+2. create database name hubrealestate
+3. import database name hubrealestate.sql from db folder
+4. admin name (admin) password (abc)
+5.houseowner email(arif@gmail.com) password(123)
+6.user email(piash@gmail.com)password(123)
